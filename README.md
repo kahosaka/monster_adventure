@@ -1,4 +1,6 @@
 # Monster Adventure
+Link to Play: https://ix.cs.uoregon.edu/~khosaka/monster-adventure/finalBuild/
+Note: WebGL not compatible on all browsers. Suggest playing on Firefox.
 
 Roles
 -
